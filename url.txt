@@ -1,0 +1,15 @@
+http://server1/store/test/ping.aspx?cb=1
+http://server2/store/test/ping.aspx?cb=1
+http://server3/store/test/ping.aspx?cb=1
+http://server4/store/test/ping.aspx?cb=1
+http://server5/store/test/ping.aspx?cb=1
+http://server6/store/test/ping.aspx?cb=1
+http://server7/store/test/ping.aspx?cb=1
+http://server8/store/test/ping.aspx?cb=1
+http://server9/store/test/ping.aspx?cb=1
+http://server10/store/test/ping.aspx?cb=1
+http://server11/store/test/ping.aspx?cb=1
+http://server12/store/test/ping.aspx?cb=1
+http://server13/store/test/ping.aspx?cb=1
+http://server14/store/test/ping.aspx?cb=1
+http://server15/store/test/ping.aspx?cb=1
